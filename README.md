@@ -88,5 +88,5 @@ Die Datei *contact_us.html* beinhaltet das Template für das Kontaktformular. In
 ```
 
 ## Credits
-Copyright: © 2013, Commerce Coding, http://www.commerce-coding.de
+Copyright: © 2013, Commerce Coding, http://www.commerce-coding.de  
 Lizenz: http://opensource.org/licenses/GPL-2.0  GNU General Public License, version 2 (GPL-2.0)
